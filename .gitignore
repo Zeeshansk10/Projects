@@ -1,0 +1,11 @@
+node_modules/
+.env
+uploads/
+converted/
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
+*.pdf
+*.tmp
